@@ -1,0 +1,1 @@
+Web application made using the react library, bootstrap and typescript for the frontend, which allows the user to login to an account currently stored in the database or create a new profile and add it to the db. The backend is created by using javascript,express,nodemon and postgres packages. The server was tested using postman before being implemented with the frontend.
